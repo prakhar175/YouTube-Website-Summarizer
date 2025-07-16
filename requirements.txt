@@ -1,0 +1,10 @@
+langchain
+langchain-core
+langchain-groq
+duckduckgo-search
+validators
+langchain-community
+youtube-transcript-api
+streamlit
+unstructured
+pytube
